@@ -65,8 +65,5 @@ The dashboard uses a **local JSON file (`data.json`)** to populate all dynamic c
 
 ---
 
-## Screenshot
 
-
-## File Structure
 
