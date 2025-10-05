@@ -1,0 +1,41 @@
+{
+  "summary": {
+    "sales": 56000,
+    "visits": 8900,
+    "projects": 12,
+    "feedback": 4.8
+  },
+  "salesTrend": [12000, 19000, 25000, 23000, 28000, 30000],
+  "userStats": [
+    { "role": "Analyst", "count": 5 },
+    { "role": "Developer", "count": 8 },
+    { "role": "Designer", "count": 3 },
+    { "role": "Tester", "count": 2 }
+  ],
+  "users": [
+    { "name": "Navya Sree", "role": "Data Analyst", "status": "Active" },
+    { "name": "ABC", "role": "Developer", "status": "Active" },
+    { "name": "PQR", "role": "UI Designer", "status": "Active" },
+    { "name": "XYZ", "role": "Tester", "status": "Active" }
+  ],
+  "feedback": [
+    { "user": "Client A", "message": "Dashboard is clean and fast!" },
+    { "user": "Client B", "message": "Loving the new UI updates." },
+    { "user": "Manager", "message": "Add export option next sprint." }
+  ],
+
+  "recentActivities": [
+    { "time": "2 mins ago", "activity": "Navya Sree added a new project." },
+    { "time": "1 hour ago", "activity": "ABC completed task #12." },
+    { "time": "Yesterday", "activity": "PQR updated the UI for the dashboard." },
+    { "time": "2 days ago", "activity": "XYZ sent feedback from client meeting." }
+  ],
+  "projectsList": [
+    { "name": "Website Redesign", "progress": 70 },
+    { "name": "Analytics Dashboard", "progress": 45 },
+    { "name": "Mobile App", "progress": 85 },
+    { "name": "Internal Tool Development", "progress": 60 }
+  ]
+
+
+}
