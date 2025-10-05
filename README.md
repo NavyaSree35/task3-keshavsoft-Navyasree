@@ -10,6 +10,7 @@ This project is a customized version of the **Mazer Admin Dashboard** (Bootstrap
 - Fully functional charts, tables, feedback, and recent activities.  
 - Visually consistent and responsive design.
 
+**Important:** This project **retains the original Mazer structure**. Only `index.html` and `data.json` were modified. All other files and folders from Mazer remain unchanged.
 ---
 
 ## Features Implemented
